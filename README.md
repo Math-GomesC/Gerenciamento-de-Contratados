@@ -26,10 +26,10 @@ ______________________________________________________
 
 # 🎨 Paleta de cores 
 
-#CBDCEB
-#6D94C5
-#E8DFCA
-#F5EFE6
+#184D47
+#96BB7C
+#D6EFC7
+#EEBB4D
 
 # Fonte
 
@@ -56,3 +56,4 @@ ______________________________________________________________________
 
 * Ícone - Pesquisa - [Srip](https://www.flaticon.com/br/icones-gratis/pesquisa) - Flaticon
 
+* Ícone - Perfil - [Magnific](https://www.flaticon.com/br/icones-gratis/do-utilizador) - Flaticon
